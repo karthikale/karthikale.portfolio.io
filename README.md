@@ -9,7 +9,7 @@ Welcome to my portfolio repository! This is a showcase of my experience, skills,
 3. [Projects](#projects)
 4. [Certifications](#certifications)
 5. [Contact](#contact)
-6. [Setup](#setup)
+
 
 ## About Me
 
@@ -46,16 +46,11 @@ Here are some key projects I've worked on. Each project includes a brief descrip
 ## Contact
 
 Feel free to connect with me on:
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
-- **Email**: karthikale8289@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/karthik-ale     
+- **GitHub**: https://github.com/karthikale
+- **Email**: karthikale518@gmail.com
 
-## Setup
 
-If you want to run this portfolio locally, clone the repository and open the `index.html` file in your browser.
-
-```bash
-git clone https://github.com/your-username/your-portfolio-repo.git
 cd your-portfolio-repo
 ```
 
