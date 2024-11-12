@@ -1,6 +1,3 @@
-# karthikale.portfolio.io
-karthikale_portfolio
----
 
 # Karthik Ale - DevOps & Cloud Engineer Portfolio
 
