@@ -49,11 +49,6 @@ Feel free to connect with me on:
 - **LinkedIn**: https://www.linkedin.com/in/karthik-ale     
 - **GitHub**: https://github.com/karthikale
 - **Email**: karthikale518@gmail.com
-
-
-cd your-portfolio-repo
-```
-
 ---
 
 This template will help you start with a structured `README.md` that’s easy to navigate and expand as you add more content.
